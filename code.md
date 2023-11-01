@@ -1,6 +1,6 @@
 # simon-game
 
-´´´
+
 // C++ code
 //
 
@@ -151,4 +151,3 @@ void loop()
   };
 }
 
-´´´
