@@ -1,8 +1,5 @@
-# simon-game
-
-
+´´´
 // C++ code
-//
 
   int botao1= 13;
   int botao2 = 12;
@@ -151,3 +148,4 @@ void loop()
   };
 }
 
+´´´
